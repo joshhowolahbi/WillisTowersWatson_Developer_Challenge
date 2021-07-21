@@ -152,7 +152,7 @@ def out_file(data, output):
 
 if __name__ == '__main__':
     # to view output result in console
-    # print(output_value("Input_Data.txt"))
+    print(output_value("Input_Data.txt"))
 
     # to write output result into a text file, uncomment below line
-    out_file("Input_Data.txt", "Output_file")
+    # out_file("Input_Data.txt", "Output_file")
